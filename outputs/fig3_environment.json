@@ -1,0 +1,22 @@
+{
+ "notebook": "05_example_figure_GPU",
+ "python": "3.13.17",
+ "device": "cuda",
+ "packages": {
+  "torch": "2.6.0+cu124",
+  "timm": "1.0.31",
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "matplotlib": "3.11.2"
+ },
+ "model": "vit_small_patch16_224",
+ "seed_pair": 22,
+ "images_idx": [
+  613,
+  7051,
+  9407
+ ],
+ "tolerance": 0.001,
+ "max_abs_difference_S": 5.44825645709679e-07,
+ "run_utc": "2026-11-23T04:36:06+00:00"
+}

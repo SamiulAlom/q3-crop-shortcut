@@ -1,0 +1,11 @@
+partitions,2,4,6,8
+test / test,2,78,595,2792
+test / train,19,350,2478,12861
+test / train_only,0,0,7,76
+test / val,3,68,640,3158
+train / train,19,446,3009,15048
+train / train_only,0,1,20,174
+train / val,10,209,1440,7254
+train_only / train_only,6,30,132,288
+train_only / val,0,0,4,30
+val / val,1,15,171,831

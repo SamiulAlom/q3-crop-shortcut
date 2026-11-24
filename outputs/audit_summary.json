@@ -1,0 +1,58 @@
+{
+  "notebook": "01_audit_masks_split_CPU",
+  "seed": 20261122,
+  "fractions": [
+    0.6,
+    0.15,
+    0.25
+  ],
+  "group_hamming": 0,
+  "pv_commit": "7f7ecc7e1eaca78107e3affe7cb5abd9427e139a",
+  "pd_commit": "5467f6012d78d1c446145d5f582da6096f852ae8",
+  "common_version": "2",
+  "mask_threshold": 16,
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "pillow": "13.0.0",
+    "ImageHash": "4.3.1",
+    "scipy": "1.18.1",
+    "git": "git version 2.56.0.windows.4"
+  },
+  "images_38_classes": 54305,
+  "images_30_classes": 46418,
+  "usable": 46332,
+  "excluded": {
+    "mask_above_95pct": 66,
+    "mask_below_5pct": 14,
+    "twin_ambiguous": 4,
+    "misaligned": 2
+  },
+  "cache_fingerprint": "d1ad34a00605cb0185b6357b1c9e0ff7587f699b2f793aa78b822e09998fe7c8",
+  "groups": 12832,
+  "groups_spanning_classes": 0,
+  "known_leaf_images_forced_to_training": 0,
+  "largest_group": 33,
+  "partition_images": {
+    "train": 24716,
+    "test": 10235,
+    "val": 6128,
+    "train_only": 5253
+  },
+  "attribution_images": 785,
+  "attribution_min_per_class": 9,
+  "split_sha256": "f519cad1dcf718aeb223f63fcc6ed31c4a27cec13b726e2965f2b12e67fad49c",
+  "attribution_sha256": "d7b50f21213f7f4818f0317d864400d29a55b8ce39a3323589fd837d01b6e1eb",
+  "threshold_decision": "decisions/008-grouping-threshold.md",
+  "plantdoc_images": 2578,
+  "plantdoc_unreadable": 0,
+  "plantdoc_mapped_images": 1949,
+  "plantdoc_mapped_classes": 22,
+  "plantdoc_duplicate_files": 24,
+  "split_done": true,
+  "remote_heads": {
+    "plantvillage": "7f7ecc7e1eaca78107e3affe7cb5abd9427e139a",
+    "plantdoc": "5467f6012d78d1c446145d5f582da6096f852ae8"
+  },
+  "finished_utc": "2026-11-22T09:05:54+00:00"
+}

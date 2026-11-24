@@ -1,0 +1,11 @@
+{
+ "split_sha256": "f519cad1dcf718aeb223f63fcc6ed31c4a27cec13b726e2965f2b12e67fad49c",
+ "attribution_sha256": "d7b50f21213f7f4818f0317d864400d29a55b8ce39a3323589fd837d01b6e1eb",
+ "cache_fingerprint": "d1ad34a00605cb0185b6357b1c9e0ff7587f699b2f793aa78b822e09998fe7c8",
+ "frozen_utc": "2026-11-22T09:05:54+00:00",
+ "from_run": "logs/local-run-03",
+ "eligibility_sha256": "d363aaf5d78e6616792b67fa210069371b5081cd5d1fc3709ab78cf2ed298d0b",
+ "construction_checks_sha256": "2dca9beeda1de7515042e67e3ef6e1cc37856ffd5b86fe6f6c3d56ad925e7c8c",
+ "checks_frozen_utc": "2026-11-22T19:50:00+00:00",
+ "checks_from_run": "logs/local-run-06-checks"
+}

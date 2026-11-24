@@ -1,0 +1,13 @@
+model,family,method,level,seed,estimate,ci_low,ci_high,boot_se,B
+vit_small_patch16_224,transformer,GC,architecture (eligible seeds),,0.39467604128931827,0.38367345367353256,0.4054904451006044,0.005544614840060866,10000.0
+vit_small_patch16_224,transformer,GC,seed,22,0.29419832571611626,,,,
+vit_small_patch16_224,transformer,GC,seed,33,0.49515375686252033,,,,
+vit_small_patch16_224,transformer,IG,architecture (eligible seeds),,0.6316092225474227,0.6257919001208987,0.637047482775753,0.0028923600253242636,10000.0
+vit_small_patch16_224,transformer,IG,seed,22,0.6340462896185706,,,,
+vit_small_patch16_224,transformer,IG,seed,33,0.6291721554762746,,,,
+vit_small_patch16_224,transformer,ROLL,architecture (eligible seeds),,0.5170865205588495,0.5123130128460275,0.5217737576139739,0.0024044013023857363,10000.0
+vit_small_patch16_224,transformer,ROLL,seed,22,0.5383608499600399,,,,
+vit_small_patch16_224,transformer,ROLL,seed,33,0.4958121911576592,,,,
+vit_small_patch16_224,transformer,TA,architecture (eligible seeds),,0.7014541115751363,0.69646374183651,0.7059226529685121,0.0024042777407700337,10000.0
+vit_small_patch16_224,transformer,TA,seed,22,0.70286085000324,,,,
+vit_small_patch16_224,transformer,TA,seed,33,0.7000473731470326,,,,

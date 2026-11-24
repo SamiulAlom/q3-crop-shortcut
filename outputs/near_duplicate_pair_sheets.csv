@@ -1,0 +1,135 @@
+band,position,d,kind,same_class,class_a,file_a,class_b,file_b
+0-0,0,0,both_unknown,True,Tomato___Late_blight,1a69b38b-c4eb-42c4-9584-bcb14fb8db0c___GHLB2 Leaf 9011.JPG,Tomato___Late_blight,2c47b891-3c97-48f1-a2cc-5aa53d3a1148___GHLB2 Leaf 9011.JPG
+0-0,1,0,both_unknown,True,Tomato___Late_blight,3fae9c64-18f0-4a67-9f97-554248bb1bed___GHLB_PS Leaf 24 Day 16.jpg,Tomato___Late_blight,5de6da85-f8c4-48c4-b463-3e6bd78884cc___GHLB_PS Leaf 24 Day 16.jpg
+0-0,2,0,both_unknown,True,Tomato___Late_blight,48c55974-9fe9-4f4b-94f7-c8cd127d1e05___GHLB_PS Leaf 23.7 Day 13.jpg,Tomato___Late_blight,bd4f09bd-ee85-4ab1-bce0-8cde3fdd7f1b___GHLB_PS Leaf 23.7 Day 13.jpg
+0-0,3,0,both_unknown,True,Tomato___Late_blight,5688ea99-c949-41d0-bbab-9cbf0ffb8bcd___GHLB2 Leaf 8677.JPG,Tomato___Late_blight,e20107e7-137f-400e-817f-5dc4c58e5d70___GHLB2 Leaf 8677.JPG
+0-0,4,0,both_unknown,True,Tomato___Late_blight,5f21282c-e2ef-4c4a-ace1-b5701fe7effc___GHLB2 Leaf 8999.JPG,Tomato___Late_blight,e5d707cd-077c-43af-bda9-6138e516ff51___GHLB2 Leaf 8999.JPG
+0-0,5,0,both_unknown,True,Tomato___Late_blight,861d8b00-57a4-46b0-b51a-09d102dbe119___GHLB_PS Leaf 24 Day 13.jpg,Tomato___Late_blight,d82b634e-9a19-497b-b698-aaf100d622a1___GHLB_PS Leaf 24 Day 13.jpg
+0-0,6,0,both_unknown,True,Tomato___Late_blight,98586693-fe1f-4ea0-8e27-4501b61cf09b___GHLB_PS Leaf 23.5 Day 13.jpg,Tomato___Late_blight,c1775bad-7c02-41fb-bb7d-f8df91d60ac3___GHLB_PS Leaf 23.5 Day 13.jpg
+0-0,7,0,both_unknown,True,Tomato___Late_blight,d6e6897a-5083-4914-9903-804c5684a956___GHLB2 Leaf 102.JPG,Tomato___Late_blight,d81682aa-746b-4e07-af2b-52ebb6f4c017___GHLB2 Leaf 102.JPG
+0-0,8,0,both_unknown,True,Tomato___healthy,068e324c-faf6-40d6-8f83-578907f1cac5___GH_HL Leaf 466.1.JPG,Tomato___healthy,34c81c57-e1fa-49dd-a49d-34fe8b2385fe___GH_HL Leaf 466.1.JPG
+0-0,9,0,both_unknown,True,Tomato___healthy,1af0bfe1-4bcf-4b8b-be66-5d0953eb647e___GH_HL Leaf 482.2.JPG,Tomato___healthy,cfd491d6-4af5-4728-8f0e-0d330a07174a___GH_HL Leaf 482.2.JPG
+0-0,10,0,both_unknown,True,Tomato___healthy,37203047-d8ba-43f7-b31e-d496c41c569c___GH_HL Leaf 389.JPG,Tomato___healthy,505465db-407b-4e0a-8110-7479dad5261c___GH_HL Leaf 389.JPG
+0-0,11,0,both_unknown,True,Tomato___healthy,37aad83b-7ff8-4b35-b3ed-fb8e0f54910b___GH_HL Leaf 342.1.JPG,Tomato___healthy,e786ac89-29fe-47e3-b49e-b9a9ee7edd9d___GH_HL Leaf 342.1.JPG
+0-0,12,0,both_unknown,True,Tomato___healthy,488feb1c-4b9f-44e7-8aa6-4103a9601f5f___GH_HL Leaf 434.JPG,Tomato___healthy,a5de43e7-fc2f-4a14-a8e6-c0f2f94c84f1___GH_HL Leaf 434.JPG
+0-0,13,0,both_unknown,True,Tomato___healthy,9662364c-aaba-45e3-b907-10792d60578c___GH_HL Leaf 220.JPG,Tomato___healthy,d2ce7896-6fa4-45e6-96c5-d162da0e3e1c___GH_HL Leaf 220.JPG
+1-2,0,2,different_known_leaves,True,Grape___Esca_(Black_Measles),4a534102-3e9e-4f82-b2c9-c6e8471f35e0___FAM_B.Msls 4300.JPG,Grape___Esca_(Black_Measles),b5a6cca1-c243-4cfd-87db-fe6146c66740___FAM_B.Msls 1215.JPG
+1-2,1,2,different_known_leaves,True,Orange___Haunglongbing_(Citrus_greening),2594eb49-8ace-4ced-976c-279f589c85eb___UF.Citrus_HLB_Lab 9709.JPG,Orange___Haunglongbing_(Citrus_greening),c8105c9a-6dd6-4bef-a490-59ca546a6d7a___UF.Citrus_HLB_Lab 9638.JPG
+1-2,2,2,different_known_leaves,False,Raspberry___healthy,6c2e049f-38c9-42c5-864f-613e6e12d59e___Mary_HL 6318.JPG,Soybean___healthy,8807e5ea-3854-4f19-bfa3-99b83f0d7a0f___RS_HL 5035.JPG
+1-2,3,2,different_known_leaves,False,Raspberry___healthy,a8bea1f3-eff7-4819-b0a8-72259d864518___Mary_HL 6376.JPG,Soybean___healthy,07ed2de2-1a88-4b3b-adc2-94102d5eaba5___RS_HL 4700.JPG
+1-2,4,2,different_known_leaves,False,Raspberry___healthy,e0466bdf-6da6-4dbe-8558-9fa04e13f319___Mary_HL 9284.JPG,Soybean___healthy,6a37877c-41bf-4f7a-9e3d-f882d9b7bf62___RS_HL 4537.JPG
+1-2,5,2,different_known_leaves,True,Soybean___healthy,07186037-2aac-496e-8396-3a9967a7fdea___RS_HL 4283.JPG,Soybean___healthy,b6d3d2d3-1cc2-4d0e-8555-143068142478___RS_HL 4650.JPG
+1-2,6,2,different_known_leaves,True,Soybean___healthy,0e4e98ca-4127-4370-ab27-1f20adb02754___RS_HL 5232.JPG,Soybean___healthy,152b6942-b876-402b-b69e-d8294bd0e264___RS_HL 5487.JPG
+1-2,7,2,different_known_leaves,True,Soybean___healthy,106959ce-ef15-4725-ad2f-d4bb93d4858e___RS_HL 3552.JPG,Soybean___healthy,ccc39144-2922-40ab-9b8c-2af9f4e9e836___RS_HL 4622.JPG
+1-2,8,2,different_known_leaves,True,Soybean___healthy,1988b49c-e5f9-4239-abc6-3e9f6cbd8edb___RS_HL 5449.JPG,Soybean___healthy,421ba14a-e551-4a8f-a7b4-0decd9fd3123___RS_HL 3946.JPG
+1-2,9,2,different_known_leaves,True,Soybean___healthy,1de56755-4034-4806-8d54-907c3076757a___RS_HL 4361.JPG,Soybean___healthy,a522afba-a47b-453e-bb3e-bcd4f8d3a411___RS_HL 3253.JPG
+1-2,10,2,different_known_leaves,True,Soybean___healthy,1f770cd9-0e55-48e7-93e5-a93144b85f1e___RS_HL 3663.JPG,Soybean___healthy,c55c20a5-c529-43af-949e-cfaad2377481___RS_HL 5454.JPG
+1-2,11,2,different_known_leaves,True,Soybean___healthy,206b64a5-d47f-4ef9-ac4e-b9bf8932c075___RS_HL 5098.JPG,Soybean___healthy,aec2578c-c81d-4ece-b2f5-293581a1c9da___RS_HL 3722.JPG
+1-2,12,2,different_known_leaves,True,Soybean___healthy,31be8305-3a3d-41da-bd6b-98a7251deea4___RS_HL 4855.JPG,Soybean___healthy,5cedc784-28e7-46ca-8b84-cba4bf5ae2e7___RS_HL 4835.JPG
+1-2,13,2,different_known_leaves,True,Soybean___healthy,3e33f778-45c7-47a7-86b9-909e967cf585___RS_HL 5058.JPG,Soybean___healthy,c01dec35-4a1c-4c3b-95e9-e2a727978136___RS_HL 5450.JPG
+1-2,14,2,different_known_leaves,True,Soybean___healthy,4ad7c682-75c2-4ef0-a371-38833ee54d54___RS_HL 5861.JPG,Soybean___healthy,54c53875-18d5-468c-a0b3-0c554149c215___RS_HL 4959.JPG
+1-2,15,2,different_known_leaves,True,Soybean___healthy,7194440d-9548-4e56-b058-ac286252af75___RS_HL 2746.JPG,Soybean___healthy,fc87d792-f83d-439e-a27a-afcf478c037b___RS_HL 2891.JPG
+1-2,16,2,different_known_leaves,True,Soybean___healthy,72234468-dde7-4035-a55c-da6857c4101d___RS_HL 4031.JPG,Soybean___healthy,cf9ea9fa-b6c6-412a-9b65-eac52390b5ce___RS_HL 4612.JPG
+1-2,17,2,different_known_leaves,True,Soybean___healthy,73681496-7d02-4730-b347-ac1bf06eb3de___RS_HL 4796.JPG,Soybean___healthy,97eb9c15-be05-45f5-94bd-97d5673c906a___RS_HL 7228.JPG
+1-2,18,2,different_known_leaves,True,Soybean___healthy,760ac536-6705-47e6-a21c-b7c69868092c___RS_HL 4279.JPG,Soybean___healthy,c4dd4ae6-a23c-4e18-9f7e-a93bb0cbf7dd___RS_HL 3902.JPG
+1-2,19,2,different_known_leaves,True,Soybean___healthy,78742856-a34f-4279-ba6f-aab9f395a73f___RS_HL 5671 1.JPG,Soybean___healthy,b23bc2ab-d7f6-47dc-a0d4-03beaa7cb1a7___RS_HL 4226.JPG
+1-2,20,2,different_known_leaves,True,Soybean___healthy,7ca2e5e5-92d1-4692-a9d7-924a3791ed61___RS_HL 3452.JPG,Soybean___healthy,a39f174d-6ff4-4dc4-a1fb-9c4ee0e7a92b___RS_HL 5389.JPG
+1-2,21,2,different_known_leaves,True,Soybean___healthy,93ebd0ba-d45f-42cf-b800-f12f8ab70a69___RS_HL 6721.JPG,Soybean___healthy,b44dcbac-ddfc-4dc0-8800-52a35b590d30___RS_HL 7153.JPG
+1-2,22,2,different_known_leaves,True,Soybean___healthy,964186af-88bb-4eba-b88b-eb961fc04786___RS_HL 5345.JPG,Soybean___healthy,c01dec35-4a1c-4c3b-95e9-e2a727978136___RS_HL 5450.JPG
+1-2,23,2,different_known_leaves,True,Soybean___healthy,9732b287-2175-4eb0-ba41-1c3d9b6c8891___RS_HL 4692.JPG,Soybean___healthy,e9a290dd-0101-41dd-b732-7f1862b52840___RS_HL 6085.JPG
+1-2,24,2,different_known_leaves,True,Soybean___healthy,e0f9d06d-375d-4bb0-aec5-f25c2c2505b7___RS_HL 4766.JPG,Soybean___healthy,f67d5091-ac83-42d4-bb1d-fb0209266760___RS_HL 4660.JPG
+1-2,25,2,different_known_leaves,True,Soybean___healthy,eddf509b-db08-47ae-b836-ea3c35c0cd04___RS_HL 5523 1.JPG,Soybean___healthy,f71f7690-b33a-498d-9200-5d064c2f8b8c___RS_HL 3680.JPG
+1-2,26,2,different_known_leaves,True,Tomato___Spider_mites Two-spotted_spider_mite,75c39e92-9f7a-4266-b6bb-56bb3cd48dcb___Com.G_SpM_FL 9523.JPG,Tomato___Spider_mites Two-spotted_spider_mite,82e7ae32-dee2-4e83-aeb3-aab7a4bdf04f___Com.G_SpM_FL 9263.JPG
+1-2,27,2,both_unknown,True,Tomato___Tomato_Yellow_Leaf_Curl_Virus,19ead445-c37c-4a22-b3fb-02510e66b553___UF.GRC_YLCV_Lab 01388.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,b379ab04-3780-4283-b388-2a038b773d79___UF.GRC_YLCV_Lab 01389.JPG
+1-2,28,2,both_unknown,True,Tomato___Tomato_Yellow_Leaf_Curl_Virus,43aae6d1-40ae-42f4-8b71-ae9351683a90___UF.GRC_YLCV_Lab 02661.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,ea824bff-58c4-402e-936c-70bc49912701___UF.GRC_YLCV_Lab 02667.JPG
+1-2,29,2,both_unknown,True,Tomato___healthy,ad8359a4-48b9-4469-a012-ed9b220de38e___GH_HL Leaf 285.1.JPG,Tomato___healthy,fd2fa9cc-2147-40ff-9e71-0056eb7884ed___GH_HL Leaf 285.JPG
+3-4,0,4,different_known_leaves,False,"Pepper,_bell___healthy",9e17a7df-6284-467f-b223-33b0d06d0a81___JR_HL 5973.JPG,Soybean___healthy,16248d15-e455-46ac-8924-4905312549dd___RS_HL 4244.JPG
+3-4,1,4,different_known_leaves,False,Raspberry___healthy,020e14fb-6016-4d7f-b489-445e0021b58e___Mary_HL 6324.JPG,Soybean___healthy,9e1987ae-31e9-4e8e-bdcb-0f4dab1f4b92___RS_HL 5513.JPG
+3-4,2,4,different_known_leaves,False,Raspberry___healthy,0b504ebf-77ab-46a0-ab30-0da09d5e1c7b___Mary_HL 6389.JPG,Soybean___healthy,1b2217a6-a79b-4c52-b737-392905939db1___RS_HL 5026.JPG
+3-4,3,4,different_known_leaves,False,Raspberry___healthy,2acf2191-96db-4afa-bcdf-77590e0b7428___Mary_HL 6233.JPG,Soybean___healthy,8a9075ee-ed68-48a9-9b09-223fcd0c0b13___RS_HL 4453.JPG
+3-4,4,4,different_known_leaves,False,Raspberry___healthy,3d9757e9-7753-4d8c-8c60-d78f4522b021___Mary_HL 6352.JPG,Soybean___healthy,d52c7953-d971-4e49-9ff6-5f3721da8a77___RS_HL 5401.JPG
+3-4,5,4,different_known_leaves,False,Raspberry___healthy,59564e0d-f4ca-450f-adef-209cbfbec0ef___Mary_HL 9241.JPG,Soybean___healthy,6866ee58-983b-4c67-aa7e-3b701d331167___RS_HL 4517.JPG
+3-4,6,4,different_known_leaves,True,Soybean___healthy,099ab0cb-1350-48c4-8134-db73479c3401___RS_HL 3598.JPG,Soybean___healthy,42f9d6af-6ef5-4c21-abfc-9aece98087e2___RS_HL 3843.JPG
+3-4,7,4,different_known_leaves,True,Soybean___healthy,0fa9a9df-dfb6-4171-a0c9-1356e4a6f011___RS_HL 5455.JPG,Soybean___healthy,a8da3165-bbd3-4f30-a1e3-a6c2ad168188___RS_HL 4234.JPG
+3-4,8,4,different_known_leaves,True,Soybean___healthy,11ae9b43-83c6-49e5-af06-98f0e8596803___RS_HL 4518.JPG,Soybean___healthy,59310dd4-9969-4e9e-aa34-b0e9a239e34a___RS_HL 5706 1.JPG
+3-4,9,4,different_known_leaves,True,Soybean___healthy,16248d15-e455-46ac-8924-4905312549dd___RS_HL 4244.JPG,Soybean___healthy,1f1fd324-621f-4cf4-ad27-c5796c3cc23e___RS_HL 4168.JPG
+3-4,10,4,different_known_leaves,True,Soybean___healthy,1b1cb98e-7297-463b-995b-e536aa3b699e___RS_HL 6343.JPG,Soybean___healthy,1f92c336-18b4-491f-8783-0fdda544518b___RS_HL 6408.JPG
+3-4,11,4,different_known_leaves,True,Soybean___healthy,1dea8556-5d2e-4b24-a07d-83c5afae81a8___RS_HL 5464.JPG,Soybean___healthy,39b3a662-848a-4bc2-93c6-260b49eccd40___RS_HL 7383.JPG
+3-4,12,4,different_known_leaves,True,Soybean___healthy,23c94ac7-d14c-4185-8d61-82018a3ed304___RS_HL 4616.JPG,Soybean___healthy,d0e555d9-22c5-45f2-bbc0-0e87d6190741___RS_HL 3368.JPG
+3-4,13,4,different_known_leaves,True,Soybean___healthy,29040ffb-9de2-4d78-b5c7-ecb504c4805f___RS_HL 4536.JPG,Soybean___healthy,d64feb8f-a1c3-411b-825b-8e2f05b7889e___RS_HL 3023.JPG
+3-4,14,4,different_known_leaves,True,Soybean___healthy,3bf12b65-7c92-428f-aa6e-c61038121f1f___RS_HL 5239.JPG,Soybean___healthy,b54decab-cdd6-406c-bc01-3fa12900f8b2___RS_HL 4577.JPG
+3-4,15,4,different_known_leaves,True,Soybean___healthy,40fd6805-7712-4dc1-9da0-3efb3e17f94f___RS_HL 2986.JPG,Soybean___healthy,881f9aa0-f506-447a-b13d-de55d06d042e___RS_HL 4749.JPG
+3-4,16,4,different_known_leaves,True,Soybean___healthy,43af946f-7ec2-4ec3-b3ef-0d3d373b7323___RS_HL 3668.JPG,Soybean___healthy,a19c094b-6696-4bb5-8169-783fdaf3fa8e___RS_HL 4478.JPG
+3-4,17,4,different_known_leaves,True,Soybean___healthy,4eedf17a-f0c8-4926-a1bb-1811331c39ac___RS_HL 5488.JPG,Soybean___healthy,b5acd86d-9165-406a-9920-9e23b2a6259f___RS_HL 3898.JPG
+3-4,18,4,different_known_leaves,True,Soybean___healthy,4eedf17a-f0c8-4926-a1bb-1811331c39ac___RS_HL 5488.JPG,Soybean___healthy,c642c062-ebf4-4afd-b286-983a7e601347___RS_HL 3925.JPG
+3-4,19,4,different_known_leaves,True,Soybean___healthy,4fc10746-5fc0-4089-b77d-ed0fe8160515___RS_HL 5693 1.JPG,Soybean___healthy,639d6e74-62e8-419c-b54d-a480ee986550___RS_HL 4560.JPG
+3-4,20,4,different_known_leaves,True,Soybean___healthy,7ca2e5e5-92d1-4692-a9d7-924a3791ed61___RS_HL 3452.JPG,Soybean___healthy,b844568d-8ed2-41fd-a3e9-f23637487a6b___RS_HL 3125.JPG
+3-4,21,4,different_known_leaves,True,Soybean___healthy,7e04c82b-7ed9-420d-8dee-9215751db2a1___RS_HL 4824.JPG,Soybean___healthy,e9c46009-365d-4b82-8254-f31aaa6af0e7___RS_HL 5086.JPG
+3-4,22,4,different_known_leaves,False,Soybean___healthy,94f05a6d-b70e-4543-a769-af7741604ddb___RS_HL 3783.JPG,Tomato___Bacterial_spot,ef110350-8e1f-4eb2-a384-037eafaf1089___GCREC_Bact.Sp 5980.JPG
+3-4,23,4,different_known_leaves,True,Soybean___healthy,97d5eac5-a52b-4918-a31d-a0e1371780f4___RS_HL 4488.JPG,Soybean___healthy,dd2c720e-a184-4d25-a72e-752869d405c7___RS_HL 4461.JPG
+3-4,24,4,different_known_leaves,True,Soybean___healthy,a8e49f7b-fd02-4620-a80d-035b239f811e___RS_HL 4663.JPG,Soybean___healthy,b25561af-8ae8-49a6-ac2a-f6c1729b3638___RS_HL 4582.JPG
+3-4,25,4,different_known_leaves,True,Soybean___healthy,c20faf5e-7487-4a7f-9579-767b9ade0164___RS_HL 4232.JPG,Soybean___healthy,d4a90bc6-db0f-43e2-b3ac-7b178b6fb3ec___RS_HL 4058.JPG
+3-4,26,4,different_known_leaves,True,Soybean___healthy,c642c062-ebf4-4afd-b286-983a7e601347___RS_HL 3925.JPG,Soybean___healthy,f7fb9a56-8346-42f6-b5e4-15490350b649___RS_HL 4840.JPG
+3-4,27,4,different_known_leaves,False,Soybean___healthy,c9c15de6-3408-4fd9-ab64-1144ca6d6603___RS_HL 5022.JPG,Tomato___Bacterial_spot,122e4db5-bfc6-44b2-b7c5-bf05d040ca79___GCREC_Bact.Sp 5782.JPG
+3-4,28,4,different_known_leaves,True,Soybean___healthy,ce9305d4-d9bc-45f6-81b1-294e9e8f2115___RS_HL 6087.JPG,Soybean___healthy,f9e3d219-c022-474a-a739-0b922e5c40df___RS_HL 5566.JPG
+3-4,29,4,different_known_leaves,True,Soybean___healthy,f0dc69f7-3e5a-4d12-a86a-2f4bbf583680___RS_HL 4054.JPG,Soybean___healthy,fe22e33f-80de-4771-9dbe-68be9f4a21a9___RS_HL 4661.JPG
+5-6,0,6,different_known_leaves,False,Apple___healthy,9992b9d9-9301-476c-b0a7-7b68ee8a47e5___RS_HL 6014.JPG,Soybean___healthy,437a7a2a-fb5c-41b8-9f22-872ffd9b1012___RS_HL 4127.JPG
+5-6,1,6,different_known_leaves,True,Cherry_(including_sour)___healthy,3500f3de-9634-48fa-b032-3104b4863619___JR_HL 9661.JPG,Cherry_(including_sour)___healthy,92f51e03-8792-42ea-a709-0b6fb115e1be___JR_HL 9807.JPG
+5-6,2,6,different_known_leaves,False,Cherry_(including_sour)___healthy,b84846ee-4d65-4404-8053-ad9bc9391b2f___JR_HL 9503.JPG,Orange___Haunglongbing_(Citrus_greening),d02af35d-e1e3-4526-84e6-52a2cda49636___CREC_HLB 5640.JPG
+5-6,3,6,different_known_leaves,False,Cherry_(including_sour)___healthy,db2c8b52-1f7d-4bb7-8cf1-81f241091122___JR_HL 9881.JPG,Soybean___healthy,33593194-35ad-45d1-bc89-d56a6b1151b1___RS_HL 3896.JPG
+5-6,4,6,different_known_leaves,True,Grape___Esca_(Black_Measles),6a5b84d5-b309-4745-8655-ba6cd34f0d90___FAM_B.Msls 4077.JPG,Grape___Esca_(Black_Measles),fcbe9279-dc29-466e-9109-247a4ecd6669___FAM_B.Msls 4230.JPG
+5-6,5,6,different_known_leaves,True,Orange___Haunglongbing_(Citrus_greening),5f3ca3c3-8aa7-4434-a37f-a810b39613ed___CREC_HLB 5457.JPG,Orange___Haunglongbing_(Citrus_greening),7b801933-cb2c-4dcd-9e9b-b93c1cc3944f___CREC_HLB 4719.JPG
+5-6,6,6,different_known_leaves,True,Orange___Haunglongbing_(Citrus_greening),8f0b730b-9cc8-4ab7-9152-70415cb9a09a___UF.Citrus_HLB_Lab 0549.JPG,Orange___Haunglongbing_(Citrus_greening),dd2d7d1e-f0b6-44f1-b316-cdd31a98b3b7___UF.Citrus_HLB_Lab 9834.JPG
+5-6,7,6,different_known_leaves,False,"Pepper,_bell___Bacterial_spot",aca08460-3229-47d9-9ce6-7b2bb9f1ce7f___JR_B.Spot 8901.JPG,Soybean___healthy,0724c908-118e-4bbb-ab6b-5419cf508e45___RS_HL 3476.JPG
+5-6,8,6,different_known_leaves,True,Soybean___healthy,0275c314-9a57-4ea9-8405-029c55d0df7c___RS_HL 3820.JPG,Soybean___healthy,462203ea-021f-4d85-bb46-e4022c776a74___RS_HL 4505.JPG
+5-6,9,6,different_known_leaves,True,Soybean___healthy,09273d3a-d9a2-4983-93ba-6aa9d9b14bca___RS_HL 5131.JPG,Soybean___healthy,c3e56f1d-74e2-49fb-a917-32cbaf7b5a78___RS_HL 3061.JPG
+5-6,10,6,different_known_leaves,True,Soybean___healthy,0e4e98ca-4127-4370-ab27-1f20adb02754___RS_HL 5232.JPG,Soybean___healthy,0e9302be-0336-416d-a461-282b18955083___RS_HL 5093.JPG
+5-6,11,6,different_known_leaves,True,Soybean___healthy,25581c19-c5a1-4b88-b94f-54bdebafc331___RS_HL 5645 1.JPG,Soybean___healthy,6a4e72cf-241a-4b4f-a4e1-72a9e5e96ceb___RS_HL 4914.JPG
+5-6,12,6,different_known_leaves,True,Soybean___healthy,29ca525d-7049-4262-b65a-dcfe1a063035___RS_HL 2771.JPG,Soybean___healthy,a96cd6ee-0449-46d7-85d3-772c8b5789d6___RS_HL 4581.JPG
+5-6,13,6,different_known_leaves,True,Soybean___healthy,37aefbb7-8016-4984-95bf-3490280b3f3e___RS_HL 3914.JPG,Soybean___healthy,50f8fa14-4c23-4168-960c-5533c4a4d35e___RS_HL 3480.JPG
+5-6,14,6,different_known_leaves,True,Soybean___healthy,3a47bec3-6db7-44a1-a35a-9732a18a5f2d___RS_HL 5749.JPG,Soybean___healthy,fb802c02-4979-4423-9612-3aa62c82247d___RS_HL 5823.JPG
+5-6,15,6,different_known_leaves,True,Soybean___healthy,3ac1ac2d-109c-4228-8eba-c547de9cecba___RS_HL 4800.JPG,Soybean___healthy,d569c7b6-179d-4073-a031-faa16d80745f___RS_HL 5396.JPG
+5-6,16,6,different_known_leaves,True,Soybean___healthy,3e33f778-45c7-47a7-86b9-909e967cf585___RS_HL 5058.JPG,Soybean___healthy,dbbcd91a-bd9e-4af9-a40c-709eff9c8b96___RS_HL 5630 1.JPG
+5-6,17,6,different_known_leaves,True,Soybean___healthy,3eb5ce08-9ce2-4244-996d-61a08a239de7___RS_HL 4216.JPG,Soybean___healthy,71010ab7-e729-462b-abf3-42cc36bf507a___RS_HL 3559.JPG
+5-6,18,6,different_known_leaves,False,Soybean___healthy,5913c19a-1c53-4db8-a4bc-47bb13053965___RS_HL 4733.JPG,Tomato___Bacterial_spot,919da9f4-c9aa-4c11-a383-17fdc98876c0___GCREC_Bact.Sp 5809.JPG
+5-6,19,6,different_known_leaves,True,Soybean___healthy,5a65f68b-0260-49e5-a178-ca327c4e1020___RS_HL 4854.JPG,Soybean___healthy,ad4bb065-7043-4c66-9de5-d949af068028___RS_HL 6839.JPG
+5-6,20,6,different_known_leaves,True,Soybean___healthy,64c55d89-14b6-4fdd-8929-bd1463383f1a___RS_HL 6898.JPG,Soybean___healthy,df6b4dc4-bf3a-44ae-96a2-0137eec1b907___RS_HL 7073.JPG
+5-6,21,6,different_known_leaves,True,Soybean___healthy,6c6089cb-f8f5-4a70-a923-69e95ec35ea3___RS_HL 6078.JPG,Soybean___healthy,dffc70ea-0343-4133-8474-f42c5215866a___RS_HL 5671.JPG
+5-6,22,6,different_known_leaves,False,Soybean___healthy,6f771b51-7c51-4d59-aeb9-153d04389540___RS_HL 6693.JPG,Tomato___Bacterial_spot,a9045c2f-df74-4d31-8e2f-f3ce3d6753e2___GCREC_Bact.Sp 3026.JPG
+5-6,23,6,different_known_leaves,True,Soybean___healthy,80165023-1bb3-4e4a-bec7-a574b630feb0___RS_HL 3973.JPG,Soybean___healthy,9da943d4-0434-4323-869f-b822674fbb4d___RS_HL 4439.JPG
+5-6,24,6,different_known_leaves,True,Soybean___healthy,805d4089-9f3a-4c00-ad80-8deb8f50ac88___RS_HL 6793.JPG,Soybean___healthy,a26620fd-0015-4db1-ad3b-8b959ed73e3b___RS_HL 6216.JPG
+5-6,25,6,different_known_leaves,True,Soybean___healthy,8807e5ea-3854-4f19-bfa3-99b83f0d7a0f___RS_HL 5035.JPG,Soybean___healthy,eb53cf09-386e-4837-ba77-dae9c97e494b___RS_HL 5373.JPG
+5-6,26,6,different_known_leaves,True,Soybean___healthy,94d44bfd-1f81-4570-81a8-42866a13d02c___RS_HL 5655 1.JPG,Soybean___healthy,b509211f-9916-42e0-9637-d491f96f5452___RS_HL 4529.JPG
+5-6,27,6,different_known_leaves,True,Soybean___healthy,a7da66ee-5bb5-4227-a962-61f6bd913005___RS_HL 3771.JPG,Soybean___healthy,fa51553a-4211-4ad7-bcef-36d2a2ebc407___RS_HL 4843.JPG
+5-6,28,6,different_known_leaves,True,Tomato___Bacterial_spot,4293f140-6bbd-4e7b-af3e-f3d519d72524___GCREC_Bact.Sp 5956.JPG,Tomato___Bacterial_spot,9886ea69-5a4e-4fa4-9e41-e9f65884ba9e___GCREC_Bact.Sp 3199.JPG
+5-6,29,6,different_known_leaves,False,Tomato___Leaf_Mold,e7ebe82b-5573-47ff-acb8-f208462d0335___Crnl_L.Mold 7123.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,d3c6bad1-4783-4d9a-a1df-941f414274c7___YLCV_GCREC 2586.JPG
+7-8,0,8,different_known_leaves,False,Cherry_(including_sour)___healthy,e8603072-d743-4b79-a882-3699649ffff4___JR_HL 9753.JPG,Soybean___healthy,c3175183-2d42-4478-9a52-967161e168d5___RS_HL 3939.JPG
+7-8,1,8,different_known_leaves,False,Grape___Black_rot,0434878b-1f52-496a-87c6-58647824ee2d___FAM_B.Rot 5035.JPG,Tomato___Leaf_Mold,2d37debb-8e09-4461-8e58-a23a06b4722a___Crnl_L.Mold 8896.JPG
+7-8,2,8,different_known_leaves,False,Orange___Haunglongbing_(Citrus_greening),67e65af1-8ce3-442b-a53c-0fafa10db86c___CREC_HLB 5120.JPG,Soybean___healthy,fb0ebb0c-0b08-47b5-ac48-ff038e0c32ba___RS_HL 5614.JPG
+7-8,3,8,different_known_leaves,False,Orange___Haunglongbing_(Citrus_greening),7b0ae7f8-fd4e-456e-9475-810f57ad0c31___CREC_HLB 4014.JPG,Soybean___healthy,0a2fc5a4-8365-4954-8574-3d4d55de48ba___RS_HL 4003.JPG
+7-8,4,8,different_known_leaves,False,"Pepper,_bell___healthy",8de81983-7026-47e2-a972-854af986bfc0___JR_HL 5879.JPG,Soybean___healthy,ab50f101-c720-4870-b65f-2acc76e400e9___RS_HL 4295.JPG
+7-8,5,8,different_known_leaves,False,"Pepper,_bell___healthy",9afc1466-639b-4652-ac11-5ae5278922fc___JR_HL 5913.JPG,Soybean___healthy,099ab0cb-1350-48c4-8134-db73479c3401___RS_HL 3598.JPG
+7-8,6,8,different_known_leaves,False,"Pepper,_bell___healthy",d21b4b16-a871-4df5-95f0-f3ae890401c0___JR_HL 5893.JPG,Soybean___healthy,eadef2b9-01b2-43a5-9ebc-634ed3d224f0___RS_HL 7544.JPG
+7-8,7,8,different_known_leaves,False,"Pepper,_bell___healthy",eeb27ba2-a71d-4111-84e1-f46e4fe0ddd7___JR_HL 8755.JPG,Tomato___Bacterial_spot,5c0765db-6fdc-45f1-b714-1f6906856761___GCREC_Bact.Sp 5736.JPG
+7-8,8,8,different_known_leaves,False,Potato___Late_blight,0d8346e1-4624-4979-84e6-1353ca59007a___RS_LB 4079.JPG,Soybean___healthy,01f32f03-21cb-4e9c-85c4-f0c610b823c8___RS_HL 6496.JPG
+7-8,9,8,different_known_leaves,False,Raspberry___healthy,2d98e51f-8702-4309-944b-e196c2ec5275___Mary_HL 6241.JPG,Soybean___healthy,2fc5e3fa-3ba1-433a-aba5-8d5a62ff6ae0___RS_HL 5352.JPG
+7-8,10,8,different_known_leaves,False,Raspberry___healthy,3368e77a-9245-4e4f-89ee-41968b060e56___Mary_HL 6251.JPG,Soybean___healthy,3aea0764-f638-4a34-ad67-778d0798572e___RS_HL 5698 1.JPG
+7-8,11,8,different_known_leaves,False,Raspberry___healthy,3d9757e9-7753-4d8c-8c60-d78f4522b021___Mary_HL 6352.JPG,Soybean___healthy,9aa57fb1-88fc-407b-a655-0a5601e35404___RS_HL 5697 1.JPG
+7-8,12,8,different_known_leaves,False,Raspberry___healthy,54564261-1cce-4a60-ab02-ff8b31b5e6f1___Mary_HL 6244.JPG,Soybean___healthy,538969da-545b-4bce-bc1d-0932898dc5e6___RS_HL 5230.JPG
+7-8,13,8,different_known_leaves,False,Raspberry___healthy,8ad4caf7-11fe-40c5-9e56-d473f9bbf390___Mary_HL 6248.JPG,Soybean___healthy,9050f7a9-e83a-44a3-abf7-24aee0ca737a___RS_HL 3388.JPG
+7-8,14,8,different_known_leaves,False,Raspberry___healthy,9b4b800b-ad23-435b-843e-035226811248___Mary_HL 6243.JPG,Soybean___healthy,d4a90bc6-db0f-43e2-b3ac-7b178b6fb3ec___RS_HL 4058.JPG
+7-8,15,8,different_known_leaves,True,Soybean___healthy,0b6ed97a-5668-4d9d-a40b-ed8029bc2492___RS_HL 5021.JPG,Soybean___healthy,29e53812-2949-4127-af2e-b80b4e967986___RS_HL 4245.JPG
+7-8,16,8,different_known_leaves,True,Soybean___healthy,1e5fc813-8e34-4029-8d7e-a525eadc04ad___RS_HL 6943.JPG,Soybean___healthy,7b7fbe21-d3bf-4145-ba56-ddcd4b3d558d___RS_HL 6079.JPG
+7-8,17,8,different_known_leaves,True,Soybean___healthy,3aea0764-f638-4a34-ad67-778d0798572e___RS_HL 5698 1.JPG,Soybean___healthy,8c583f4e-75d5-43d1-be0c-70d4d4c4aa06___RS_HL 4571.JPG
+7-8,18,8,different_known_leaves,True,Soybean___healthy,3ba289b8-ffb3-425e-aa80-d4c2b9e87592___RS_HL 5410.JPG,Soybean___healthy,97eb9c15-be05-45f5-94bd-97d5673c906a___RS_HL 7228.JPG
+7-8,19,8,different_known_leaves,True,Soybean___healthy,42727c9c-59e8-46a6-8050-7ee4eaa8002b___RS_HL 6965.JPG,Soybean___healthy,c473dc6e-8c6c-40ed-b956-8d5c79c96116___RS_HL 5679 1.JPG
+7-8,20,8,different_known_leaves,True,Soybean___healthy,466c5bd0-0d62-48b4-b3d5-ac73d6597ba7___RS_HL 4303.JPG,Soybean___healthy,b00c9d6b-c530-4d4f-b300-be9fe5e72b0a___RS_HL 6840.JPG
+7-8,21,8,different_known_leaves,True,Soybean___healthy,504d1070-3f0f-4550-80ab-025510f3cbf8___RS_HL 3301.JPG,Soybean___healthy,909cf062-161c-4eb5-8c3a-bd7f2fb446ce___RS_HL 3175.JPG
+7-8,22,8,different_known_leaves,False,Soybean___healthy,66470940-d138-4a1c-8c96-0fcd0b6a6f7f___RS_HL 6346.JPG,Tomato___Bacterial_spot,116f4d08-405e-492c-a8b2-dd596b19b820___GCREC_Bact.Sp 3053.JPG
+7-8,23,8,different_known_leaves,False,Soybean___healthy,9992736b-e109-4dfe-861d-0344731227fc___RS_HL 6824.JPG,Tomato___Bacterial_spot,f26ada25-77e0-4439-9cdc-b833b57e1053___GCREC_Bact.Sp 5978.JPG
+7-8,24,8,different_known_leaves,True,Soybean___healthy,9bef533f-4670-4c29-8fad-2d49eb53a60a___RS_HL 2846.JPG,Soybean___healthy,ccc39144-2922-40ab-9b8c-2af9f4e9e836___RS_HL 4622.JPG
+7-8,25,8,different_known_leaves,True,Soybean___healthy,cec1c76a-0bab-49c2-884a-f6e4a62e9c45___RS_HL 6762.JPG,Soybean___healthy,ec3b2133-01c8-404a-be8f-79957311d318___RS_HL 7084.JPG
+7-8,26,8,different_known_leaves,True,Soybean___healthy,dd4f34a9-5d5f-4187-9913-c221550d7a92___RS_HL 3433.JPG,Soybean___healthy,fe22e33f-80de-4771-9dbe-68be9f4a21a9___RS_HL 4661.JPG
+7-8,27,8,different_known_leaves,False,Soybean___healthy,ea4d9b6b-37e9-44ca-8929-10eceb80d6ff___RS_HL 7150.JPG,Tomato___Bacterial_spot,86bcf005-a793-4d1f-a767-99548b4c3aa6___GCREC_Bact.Sp 3131.JPG
+7-8,28,8,different_known_leaves,True,Soybean___healthy,f8770750-7952-40f8-94eb-57300636a96d___RS_HL 4301.JPG,Soybean___healthy,fae54d78-acec-407e-99ff-4f54a175fd6b___RS_HL 4938.JPG
+7-8,29,8,different_known_leaves,True,Tomato___Bacterial_spot,76bf0511-84d8-4609-94e6-248bea3d1465___GCREC_Bact.Sp 6032.JPG,Tomato___Bacterial_spot,efd6193d-7d5b-4207-999d-2aeb08cd64e2___GCREC_Bact.Sp 5739.JPG

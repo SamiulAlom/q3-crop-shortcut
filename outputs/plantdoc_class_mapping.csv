@@ -1,0 +1,29 @@
+folder,test,train,pv_class,readable_images
+Apple Scab Leaf,10,83,Apple___Apple_scab,93
+Apple leaf,9,82,Apple___healthy,91
+Apple rust leaf,10,79,Apple___Cedar_apple_rust,89
+Bell_pepper leaf,8,53,"Pepper,_bell___healthy",61
+Bell_pepper leaf spot,9,62,"Pepper,_bell___Bacterial_spot",71
+Blueberry leaf,11,106,Blueberry___healthy,117
+Cherry leaf,10,47,Cherry_(including_sour)___healthy,57
+Corn Gray leaf spot,4,64,,68
+Corn leaf blight,12,180,,192
+Corn rust leaf,10,106,,116
+Peach leaf,9,103,Peach___healthy,112
+Potato leaf early blight,8,109,Potato___Early_blight,117
+Potato leaf late blight,8,97,Potato___Late_blight,105
+Raspberry leaf,7,112,Raspberry___healthy,119
+Soyabean leaf,8,57,Soybean___healthy,65
+Squash Powdery mildew leaf,6,124,,130
+Strawberry leaf,8,88,Strawberry___healthy,96
+Tomato Early blight leaf,9,79,Tomato___Early_blight,88
+Tomato Septoria leaf spot,11,140,Tomato___Septoria_leaf_spot,151
+Tomato leaf,8,55,Tomato___healthy,63
+Tomato leaf bacterial spot,9,101,Tomato___Bacterial_spot,110
+Tomato leaf late blight,10,101,Tomato___Late_blight,111
+Tomato leaf mosaic virus,10,44,,54
+Tomato leaf yellow virus,6,70,Tomato___Tomato_Yellow_Leaf_Curl_Virus,76
+Tomato mold leaf,6,85,Tomato___Leaf_Mold,91
+Tomato two spotted spider mites leaf,0,2,Tomato___Spider_mites Two-spotted_spider_mite,2
+grape leaf,12,57,,69
+grape leaf black rot,8,56,Grape___Black_rot,64

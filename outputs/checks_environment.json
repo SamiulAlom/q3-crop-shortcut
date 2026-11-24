@@ -1,0 +1,53 @@
+{
+ "python": "3.13.17",
+ "platform": "Windows-11-10.0.26300-SP0",
+ "device": "cuda",
+ "packages": {
+  "torch": "2.6.0+cu124",
+  "timm": "1.0.31",
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "scipy": "1.18.1"
+ },
+ "gpu": "NVIDIA GeForce RTX 3060",
+ "smoke": false,
+ "stage": "checks",
+ "fills": [
+  "blur",
+  "mean"
+ ],
+ "common_version": "2",
+ "torch_module_version": "1",
+ "backend": {
+  "precision": "float32, no autocast",
+  "tf32_matmul": false,
+  "tf32_cudnn": false,
+  "cudnn_benchmark": false,
+  "cudnn_deterministic": true
+ },
+ "rules": {
+  "BG": {
+   "acc_min": 0.2,
+   "own_effect_min": 0.3,
+   "other_effect_max": 0.1,
+   "artefact_max": 0.1
+  },
+  "LEAF": {
+   "acc_min": 0.9,
+   "own_effect_min": 0.3,
+   "other_effect_max": 0.1,
+   "artefact_max": 0.1
+  }
+ },
+ "n_swaps": 5,
+ "check_per_class": 50,
+ "frozen_inputs": {
+  "split_sha256": "f519cad1dcf718aeb223f63fcc6ed31c4a27cec13b726e2965f2b12e67fad49c",
+  "attribution_sha256": "d7b50f21213f7f4818f0317d864400d29a55b8ce39a3323589fd837d01b6e1eb",
+  "cache_fingerprint": "d1ad34a00605cb0185b6357b1c9e0ff7587f699b2f793aa78b822e09998fe7c8",
+  "frozen_utc": "2026-11-22T09:05:54+00:00",
+  "from_run": "logs/local-run-03"
+ },
+ "weighting": "every effect is the unweighted mean of class means over the check subset",
+ "run_utc": "2026-11-22T19:41:45+00:00"
+}

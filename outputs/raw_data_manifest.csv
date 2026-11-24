@@ -1,0 +1,3 @@
+dataset,url,commit,remote_head_at_run,fetched_utc,what
+PlantVillage,https://github.com/spMohanty/PlantVillage-Dataset,7f7ecc7e1eaca78107e3affe7cb5abd9427e139a,7f7ecc7e1eaca78107e3affe7cb5abd9427e139a,2026-11-22T09:04:10+00:00,"raw/color, raw/segmented and root files (sparse checkout); per-image SHA-256 in pv_inventory.csv.gz"
+PlantDoc,https://github.com/pratikkayal/PlantDoc-Dataset,5467f6012d78d1c446145d5f582da6096f852ae8,5467f6012d78d1c446145d5f582da6096f852ae8,2026-11-22T09:04:10+00:00,"whole commit in the git object store, no checkout; per-image SHA-256 in plantdoc_inventory.csv"
